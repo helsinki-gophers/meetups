@@ -2,7 +2,7 @@
 
 ## When
 
-Wednesday, January 22nd 2024
+Wednesday, January 22nd 2025
 
 ## Location
 
