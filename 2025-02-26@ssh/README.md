@@ -21,6 +21,7 @@ certification such as FIPS-140 and covered what this means both as a consumer
 of cryptographic libraries and as an author. He also covered the the upcoming
 requirements defined by the Cyber Resilience Act (CRA).
 
+- [Slides](./golang-and-cryptographic-certification-requirements.pdf)
 - [Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
 
 ### What's new in Go 1.24
